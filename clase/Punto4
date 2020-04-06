@@ -1,0 +1,2 @@
+def tabu(A,N,M):
+	tab = [[0 for _ in range()]]
